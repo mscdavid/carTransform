@@ -1,0 +1,161 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(fog.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+cl : 명령줄  warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  transformation.c
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(30,35): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(32,35): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(34,35): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(41,35): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(43,35): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(45,35): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(50,37): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(52,37): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(54,37): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(102,5): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(204,19): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(206,24): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(208,29): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(288,14): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(307,30): warning C4244: '=': 'double'에서 'GLuint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(308,32): warning C4244: '=': 'double'에서 'GLuint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(324,18): warning C4305: '함수': 'double'에서 'GLclampf'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(324,23): warning C4305: '함수': 'double'에서 'GLclampf'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(324,28): warning C4305: '함수': 'double'에서 'GLclampf'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(413,30): warning C4244: '함수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(414,16): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(414,30): warning C4244: '함수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(415,16): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(415,31): warning C4244: '함수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(416,30): warning C4244: '함수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(417,21): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(417,30): warning C4244: '함수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(418,21): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(418,31): warning C4244: '함수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(419,30): warning C4244: '함수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(422,33): warning C4244: '함수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(425,14): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(425,19): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(425,24): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(433,15): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(433,20): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(433,25): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(455,15): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(455,20): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(455,25): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(503,18): warning C4305: '함수': 'double'에서 'GLclampf'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(503,23): warning C4305: '함수': 'double'에서 'GLclampf'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\tutors\transformation.c(503,28): warning C4305: '함수': 'double'에서 'GLclampf'(으)로 잘립니다.
+  glm.c
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(187,23): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(234,11): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(303,42): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(304,42): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(305,42): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(307,42): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(308,42): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(309,42): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(262,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(263,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(266,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(276,11): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(285,13): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(316,32): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(320,11): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(328,13): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(330,51): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(333,13): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(341,17): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(347,17): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(353,17): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(391,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(392,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(396,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(452,11): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(483,17): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(484,37): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(503,17): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(507,21): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(508,21): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(509,21): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(512,27): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(516,28): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(518,21): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(519,21): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(522,27): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(526,28): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(528,21): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(529,21): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(532,27): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(538,21): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(539,21): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(542,27): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(603,11): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(612,17): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(619,17): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(626,17): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(635,17): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(651,17): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(655,21): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(658,21): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(661,21): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(666,27): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(676,28): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(681,21): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(685,21): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(691,27): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(704,28): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(708,21): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(711,21): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(716,27): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(728,21): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(730,21): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(732,21): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(736,27): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(811,24): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(812,24): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(813,24): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(816,17): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(1016,17): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(1172,23): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(1179,49): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(1180,49): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(1230,13): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(1231,15): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(1238,34): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(1240,23): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(1243,37): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(1245,37): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(1248,45): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(1249,43): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(1312,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(1321,26): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(1433,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(1795,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(1816,18): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(1818,18): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\SCHOOL\24-3-2\opengl\tutors\glm.c(1820,18): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...
+glm.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
+transformation.obj : error LNK2019: __imp__glutInitWindowPosition@8_main 함수에서 참조되는 확인할 수 없는 외부 기호
+transformation.obj : error LNK2019: __imp__glutInitWindowSize@8_main 함수에서 참조되는 확인할 수 없는 외부 기호
+transformation.obj : error LNK2019: __imp__glutInitDisplayMode@4_main 함수에서 참조되는 확인할 수 없는 외부 기호
+transformation.obj : error LNK2019: __imp__glutMainLoop@0_main 함수에서 참조되는 확인할 수 없는 외부 기호
+transformation.obj : error LNK2019: __imp__glutCreateSubWindow@20_main 함수에서 참조되는 확인할 수 없는 외부 기호
+transformation.obj : error LNK2019: __imp__glutSetWindow@4_main_reshape 함수에서 참조되는 확인할 수 없는 외부 기호
+transformation.obj : error LNK2019: __imp__glutReshapeWindow@8_main_reshape 함수에서 참조되는 확인할 수 없는 외부 기호
+transformation.obj : error LNK2019: __imp__glutPositionWindow@8_main_reshape 함수에서 참조되는 확인할 수 없는 외부 기호
+transformation.obj : error LNK2019: __imp__glutPostRedisplay@0_redisplay_all 함수에서 참조되는 확인할 수 없는 외부 기호
+transformation.obj : error LNK2019: __imp__glutSwapBuffers@0_command_display 함수에서 참조되는 확인할 수 없는 외부 기호
+transformation.obj : error LNK2019: __imp__glutAddMenuEntry@8_main 함수에서 참조되는 확인할 수 없는 외부 기호
+transformation.obj : error LNK2019: __imp__glutAttachMenu@4_main 함수에서 참조되는 확인할 수 없는 외부 기호
+transformation.obj : error LNK2019: __imp__glutKeyboardFunc@4_main 함수에서 참조되는 확인할 수 없는 외부 기호
+transformation.obj : error LNK2019: __imp__glutReshapeFunc@4_main 함수에서 참조되는 확인할 수 없는 외부 기호
+transformation.obj : error LNK2019: __imp__glutDisplayFunc@4_main 함수에서 참조되는 확인할 수 없는 외부 기호
+transformation.obj : error LNK2019: __imp__glutMouseFunc@4_main 함수에서 참조되는 확인할 수 없는 외부 기호
+transformation.obj : error LNK2019: __imp__glutMotionFunc@4_main 함수에서 참조되는 확인할 수 없는 외부 기호
+transformation.obj : error LNK2019: __imp__glutBitmapCharacter@8_drawaxes 함수에서 참조되는 확인할 수 없는 외부 기호
+transformation.obj : error LNK2019: __imp____glutInitWithExit@12_glutInit_ATEXIT_HACK@8 함수에서 참조되는 확인할 수 없는 외부 기호
+transformation.obj : error LNK2019: __imp____glutCreateWindowWithExit@8_glutCreateWindow_ATEXIT_HACK@4 함수에서 참조되는 확인할 수 없는 외부 기호
+transformation.obj : error LNK2019: __imp____glutCreateMenuWithExit@8_glutCreateMenu_ATEXIT_HACK@4 함수에서 참조되는 확인할 수 없는 외부 기호
+freeglut.lib : warning LNK4272: 'x64' 라이브러리 컴퓨터 종류가 'x86' 대상 컴퓨터 종류와 충돌합니다.
+freeglutd.lib : warning LNK4272: 'x64' 라이브러리 컴퓨터 종류가 'x86' 대상 컴퓨터 종류와 충돌합니다.
+Debug\transformation.exe : fatal error LNK1120: 21개의 확인할 수 없는 외부 참조입니다.
